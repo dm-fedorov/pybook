@@ -1,0 +1,19 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+options:
+  numbered: true
+chapters:
+- file: intro/01
+- file: hist/01
+- file: linux/01
+- file: python/01
+- file: interpr/01
+- file: oop/01
+- file: bd/01
+- file: windows/01
+- file: other/graph
+- file: projects/01
+
